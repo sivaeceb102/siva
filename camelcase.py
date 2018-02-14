@@ -1,0 +1,5 @@
+name1= ("siva")
+name2=("kumar")
+s=name1.capitalize()
+k=name2.capitalize()
+print(s+k)
