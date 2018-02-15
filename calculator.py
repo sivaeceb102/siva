@@ -19,4 +19,4 @@ elif (s==4):
     else:
         print (m/n)
 else:
-  print() 
+  print("invalid") 
