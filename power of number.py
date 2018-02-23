@@ -1,3 +1,6 @@
 a=int(input("enter the base number: "))
 b=int(input("enter the power number: "))
-print(a**b)
+if a and b ==0:
+  print("invalid") 
+else:
+  print(a**b)
