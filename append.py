@@ -1,2 +1,3 @@
-a=input("enter the name: ")
-print(a+".")
+string=input("enter the string: ")
+s=(string+".")
+print (s)
