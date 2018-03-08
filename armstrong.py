@@ -6,7 +6,7 @@ while temp>0:
 	sum += digi ** 3
 	temp //=10
 if num == sum:
-	print("it is an armstrong number")
+	print("yes")
 else:
-	print("it is not an armstrong number")
+	print("no")
 	
