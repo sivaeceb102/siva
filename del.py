@@ -11,4 +11,4 @@ def smallest(lst):
 if __name__ == '__main__':
     lst = list(str(m))
     lst.sort()
-print ("smallest number combination is:\n",smallest(lst))
+print ("the smallest number combination is:\n",smallest(lst))
