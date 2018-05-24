@@ -1,0 +1,5 @@
+n=int(input('enter the num'))
+a=int(input('enter the num'))
+d=int(input('enter the num'))
+S=(n / 2)*(2*a + (n-1)*d)
+print(S)
