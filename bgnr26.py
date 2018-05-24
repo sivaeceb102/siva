@@ -8,7 +8,7 @@ for i in range(1,n+1):
 k=len(l)
 median=0
 if(k%2==0):
-  median=(l[k//2 + k//2-1])/2
+  midle=(l[k//2 + k//2-1])/2
 else:
-  median=(l[k//2])
-print(median)
+  midle=(l[k//2])
+print(midle)
