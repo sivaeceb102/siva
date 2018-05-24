@@ -1,0 +1,10 @@
+h1=int(input())
+m1=int(input())
+h2=int(input())
+m2=int(input())
+t1=(h1*60)+m1
+t2=(h2*60)+m2
+tt=t1-t2
+th=(tt//60)
+tm=(tt%60)
+print(th,tm)
